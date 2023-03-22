@@ -1,0 +1,26 @@
+/*Abstract Styles*/
+@import "./abstracts/functions";
+@import "./abstracts/mixin";
+@import "./abstracts/variables";
+/*Base Styles*/
+@import "./base/base";
+@import "./base/animation";
+@import "./base/typography";
+@import "./base/Utilities";
+/*Component Styles*/
+@import "./components/bg-video";
+@import "./components/button";
+@import "./components/cards";
+@import "./components/composition";
+@import "./components/feature-box";
+@import "./components/form";
+@import "./components/popup";
+@import "./components/stories";
+/*Layout Styles*/
+@import "./layout/footer";
+@import "./layout/grid";
+@import "./layout/header";
+@import "./layout/navigation";
+/*Pages Styles*/
+@import "./pages/home";
+
